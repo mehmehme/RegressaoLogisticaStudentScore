@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Regressão Logística com o Dataset Iris 🌸</h1>
 
 <p align="center">
-  <img src="(https://mir-s3-cdn-cf.behance.net/project_modules/source/c8795532318437.567a06124c9da.gif](https://images.squarespace-cdn.com/content/v1/58ab71101b10e3ab0b51091f/1598698122033-76Q3U5JMN01C1MAJGSD9/Cherry-blossom-wallpaper-illustration-GIF.gif)" width="400px" alt="Iris GIF">
+  <img src="https://78.media.tumblr.com/5dace9e7bd0e72c2f3c90cf652321f34/tumblr_p49mbeKyO81uvnto5o1_1280.gif" width="400px" alt="Iris GIF">
 </p>
 
 
